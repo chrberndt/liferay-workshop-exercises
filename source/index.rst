@@ -10,6 +10,8 @@ Welcome to Liferay Workshop Exercises's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   10-patching-dxp/index
+
 
 
 Indices and tables
