@@ -15,6 +15,7 @@ pip3 install sphinx-markdown-tables
 #pip3 install sphinx_rtd_theme
 pip3 install furo
 pip3 install sphinx-copybutton
+pip3 install --upgrade myst-parser
 ```
 
 ## Contact
